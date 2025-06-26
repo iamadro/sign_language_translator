@@ -8,7 +8,7 @@ if not os.path.exists(dest):
     os.makedirs(dest)
 
 #Setting the number of entries to input(num_inputs), and the number of frames to be captured for each entry(dataset_size)
-num_inputs = 11
+num_inputs = 26
 dataset_size = 200
 
 start_from = 0  #from which directory to start adding frames
